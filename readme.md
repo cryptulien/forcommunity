@@ -1,0 +1,1 @@
+This repository will contain the public parts needed to verify the operation of the administrator dApp for the AAA MetaHuahua community.
